@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect - Smart College Management System",
+  "description": "Comprehensive web-based college management portal with specialized dashboards for Students, Faculty Advisors, Department HODs, and College Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
